@@ -1,5 +1,7 @@
 # Excel Clone
 
+🔗 **Live Demo:** [Click here to view the project](https://parthjuneja24.github.io/excel-clone/)
+
 ---
 
 ## Description:
