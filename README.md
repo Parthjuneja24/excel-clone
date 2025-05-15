@@ -35,7 +35,7 @@ Excel Clone is built using the **Electron framework**, with technologies like **
 ## 🚀 Getting Started:
 
 ```bash
-git clone https://github.com/yourusername/excel-clone.git
+git clone https://github.com/Parthjuneja24/excel-clone.git
 cd excel-clone
 npm install
 npm start
