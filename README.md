@@ -12,13 +12,20 @@ Excel Clone is built using the **Electron framework**, with technologies like **
 
 ## 🔧 Features:
 
-- 🧮 Formula evaluation
-- 🔁 Cycle detection in formulas
-- 💾 Open/Save file functionality
 - 🎨 Cell formatting (bold, italic, alignment)
-- 📄 Multiple sheet support *(if implemented)*
-
+- 📄 Multiple sheet support 
+- 🅰️ Font Style and Font Size  
+- 📐 Alignment  
+- 🔤 **Bold**, *Italic*, and <u>Underline</u>  
+- 🎨 Custom Background Color and Text Color  
 ---
+
+### 📄 Sheets
+
+- Users can use **any number of unique sheets** within a single Excel page.
+- Each sheet acts as a **completely new sheet** with its own formatting and content.
+- The entire Excel file — including all sheets — can be **saved and accessed together**.
+
 
 ## 📸 Screenshot:
 
